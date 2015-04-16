@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>valider2.png</file>
+        <file>annuler2.png</file>
+        <file>Coche2.png</file>
+    </qresource>
+</RCC>
